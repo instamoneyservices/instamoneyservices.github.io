@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-26T15:54:06+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Insta Money Services</title><subtitle>My portfolio - whoever the fuck I am
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-06-23T12:00:56+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Insta Money Services</title><subtitle>My portfolio - whoever the fuck I am
 </subtitle><author><name>P</name></author><entry><title type="html">Kværnen</title><link href="http://localhost:4000/kvarnen-til-rada-en-dag.html" rel="alternate" type="text/html" title="Kværnen" /><published>2021-04-21T00:00:00+02:00</published><updated>2021-04-21T00:00:00+02:00</updated><id>http://localhost:4000/kvarnen-til-rada-en-dag</id><content type="html" xml:base="http://localhost:4000/kvarnen-til-rada-en-dag.html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;#rema-1000&quot;&gt;Rema 1000&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#rensningsanlæg&quot;&gt;Rensningsanlæg&lt;/a&gt;&lt;/li&gt;
@@ -34,32 +34,21 @@
 
 &lt;h2 id=&quot;rensningsanlæg&quot;&gt;Rensningsanlæg&lt;/h2&gt;
 
-&lt;p&gt;Efter satte jeg den op på et rensningsanlæg.
-(Der kommer snart billeder i højere opløsning!)&lt;/p&gt;
+&lt;p&gt;Efter satte jeg den op på et rensningsanlæg.&lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;/assets/resized/320/re-1.JPG&quot; alt=&quot;A description of the image&quot; data-srcset=&quot;    /assets/resized/480/re-1.JPG 480w,    /assets/resized/320/re-1.JPG 320w,&quot; class=&quot;blur-up lazyautosizes lazyload&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;/assets/resized/320/re-1.JPG&quot; alt=&quot;A description of the image&quot; data-srcset=&quot;    /assets/resized/1200/re-1.JPG 1200w,    /assets/resized/800/re-1.JPG 800w,    /assets/resized/480/re-1.JPG 480w,    /assets/resized/320/re-1.JPG 320w,&quot; class=&quot;blur-up lazyautosizes lazyload&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;/assets/resized/320/re-2.JPG&quot; alt=&quot;A description of the image&quot; data-srcset=&quot;    /assets/resized/480/re-2.JPG 480w,    /assets/resized/320/re-2.JPG 320w,&quot; class=&quot;blur-up lazyautosizes lazyload&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;/assets/resized/320/re-2.JPG&quot; alt=&quot;A description of the image&quot; data-srcset=&quot;    /assets/resized/1200/re-2.JPG 1200w,    /assets/resized/800/re-2.JPG 800w,    /assets/resized/480/re-2.JPG 480w,    /assets/resized/320/re-2.JPG 320w,&quot; class=&quot;blur-up lazyautosizes lazyload&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;/assets/resized/320/re-3.JPG&quot; alt=&quot;A description of the image&quot; data-srcset=&quot;    /assets/resized/480/re-3.JPG 480w,    /assets/resized/320/re-3.JPG 320w,&quot; class=&quot;blur-up lazyautosizes lazyload&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;/assets/resized/320/re-3.JPG&quot; alt=&quot;A description of the image&quot; data-srcset=&quot;    /assets/resized/1200/re-3.JPG 1200w,    /assets/resized/800/re-3.JPG 800w,    /assets/resized/480/re-3.JPG 480w,    /assets/resized/320/re-3.JPG 320w,&quot; class=&quot;blur-up lazyautosizes lazyload&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;/assets/resized/320/re-4.JPG&quot; alt=&quot;A description of the image&quot; data-srcset=&quot;    /assets/resized/480/re-4.JPG 480w,    /assets/resized/320/re-4.JPG 320w,&quot; class=&quot;blur-up lazyautosizes lazyload&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;/assets/resized/320/re-4.JPG&quot; alt=&quot;A description of the image&quot; data-srcset=&quot;    /assets/resized/1200/re-4.JPG 1200w,    /assets/resized/800/re-4.JPG 800w,    /assets/resized/480/re-4.JPG 480w,    /assets/resized/320/re-4.JPG 320w,&quot; class=&quot;blur-up lazyautosizes lazyload&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;/assets/resized/320/re-5.JPG&quot; alt=&quot;A description of the image&quot; data-srcset=&quot;    /assets/resized/480/re-5.JPG 480w,    /assets/resized/320/re-5.JPG 320w,&quot; class=&quot;blur-up lazyautosizes lazyload&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;/assets/resized/320/re-5.JPG&quot; alt=&quot;A description of the image&quot; data-srcset=&quot;    /assets/resized/1200/re-5.JPG 1200w,    /assets/resized/800/re-5.JPG 800w,    /assets/resized/480/re-5.JPG 480w,    /assets/resized/320/re-5.JPG 320w,&quot; class=&quot;blur-up lazyautosizes lazyload&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;/assets/resized/320/re-6.JPG&quot; alt=&quot;A description of the image&quot; data-srcset=&quot;    /assets/resized/480/re-6.JPG 480w,    /assets/resized/320/re-6.JPG 320w,&quot; class=&quot;blur-up lazyautosizes lazyload&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;/assets/resized/320/re-6.JPG&quot; alt=&quot;A description of the image&quot; data-srcset=&quot;    /assets/resized/1200/re-6.JPG 1200w,    /assets/resized/800/re-6.JPG 800w,    /assets/resized/480/re-6.JPG 480w,    /assets/resized/320/re-6.JPG 320w,&quot; class=&quot;blur-up lazyautosizes lazyload&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;/assets/resized/320/re-7.JPG&quot; alt=&quot;A description of the image&quot; data-srcset=&quot;    /assets/resized/480/re-7.JPG 480w,    /assets/resized/320/re-7.JPG 320w,&quot; class=&quot;blur-up lazyautosizes lazyload&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;/assets/resized/320/re-8.JPG&quot; alt=&quot;A description of the image&quot; data-srcset=&quot;    /assets/resized/480/re-8.JPG 480w,    /assets/resized/320/re-8.JPG 320w,&quot; class=&quot;blur-up lazyautosizes lazyload&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;/assets/resized/320/re-9.JPG&quot; alt=&quot;A description of the image&quot; data-srcset=&quot;    /assets/resized/480/re-9.JPG 480w,    /assets/resized/320/re-9.JPG 320w,&quot; class=&quot;blur-up lazyautosizes lazyload&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;/assets/resized/320/re-10.JPG&quot; alt=&quot;A description of the image&quot; data-srcset=&quot;    /assets/resized/480/re-10.JPG 480w,    /assets/resized/320/re-10.JPG 320w,&quot; class=&quot;blur-up lazyautosizes lazyload&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;/assets/resized/320/re-11.JPG&quot; alt=&quot;A description of the image&quot; data-srcset=&quot;    /assets/resized/480/re-11.JPG 480w,    /assets/resized/320/re-11.JPG 320w,&quot; class=&quot;blur-up lazyautosizes lazyload&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;/assets/resized/320/re-12.JPG&quot; alt=&quot;A description of the image&quot; data-srcset=&quot;    /assets/resized/480/re-12.JPG 480w,    /assets/resized/320/re-12.JPG 320w,&quot; class=&quot;blur-up lazyautosizes lazyload&quot; /&gt;&lt;/p&gt;</content><author><name>P</name></author><category term="exhibition, indoor" /><summary type="html">Rema 1000 Rensningsanlæg</summary></entry><entry><title type="html">Boat</title><link href="http://localhost:4000/boat-at-proevestenen.html" rel="alternate" type="text/html" title="Boat" /><published>2020-12-19T00:00:00+01:00</published><updated>2020-12-19T00:00:00+01:00</updated><id>http://localhost:4000/Boat-at-Proevestenen</id><content type="html" xml:base="http://localhost:4000/boat-at-proevestenen.html">&lt;ul&gt;
+&lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;/assets/resized/320/re-8.JPG&quot; alt=&quot;A description of the image&quot; data-srcset=&quot;    /assets/resized/1200/re-8.JPG 1200w,    /assets/resized/800/re-8.JPG 800w,    /assets/resized/480/re-8.JPG 480w,    /assets/resized/320/re-8.JPG 320w,&quot; class=&quot;blur-up lazyautosizes lazyload&quot; /&gt;&lt;/p&gt;</content><author><name>P</name></author><category term="exhibition, indoor" /><summary type="html">Rema 1000 Rensningsanlæg</summary></entry><entry><title type="html">Boat</title><link href="http://localhost:4000/boat-at-proevestenen.html" rel="alternate" type="text/html" title="Boat" /><published>2020-12-19T00:00:00+01:00</published><updated>2020-12-19T00:00:00+01:00</updated><id>http://localhost:4000/Boat-at-Proevestenen</id><content type="html" xml:base="http://localhost:4000/boat-at-proevestenen.html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;#boat&quot;&gt;Boat&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#dishes&quot;&gt;Dishes&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#sealing&quot;&gt;Sealing&lt;/a&gt;&lt;/li&gt;
